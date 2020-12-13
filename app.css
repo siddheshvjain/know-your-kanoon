@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+#main-nav .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#header-group span {
+    color: red;
+}
+
+#header-group h1 {
+    font_weight: 100;
+}
+
+@media (max-width: 1300px) {
+    #header-group h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+}
+
+#newsletter {
+    border-style: inset;
+    background-color: white;
+}
