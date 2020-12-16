@@ -53,3 +53,44 @@ body {
 .servicetable a:hover{
     color: rgb(238, 241, 13);
 }
+
+
+.loginheading{
+   
+    text-align: center;
+    font-family: 'Langar', cursive;
+}
+
+.logininput {
+   
+    width: 45%;
+}
+
+.logininputdiv {
+    margin-left: 35%;
+    margin-top: 3%;
+}
+
+.loginbutton{
+    background-color: black;
+    color: whitesmoke;
+}
+.loginbutton:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+i{
+    color: black;
+}
+
+.logininput {
+    border: 2px solid #555;
+  }
+.logininput:focus {
+    border: 3px solid rgb(3, 0, 0);
+}
+
+.registerinputdiv{
+    margin-left: 35%;
+    margin-top: 3%;
+}
