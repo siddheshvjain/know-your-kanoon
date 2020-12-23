@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
@@ -26,10 +26,13 @@
                                 <a class="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="services.html">Services</a>
+                                <a class="nav-link" href="services.php">Services</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="Login.html">Login</a>
+                                <a class="nav-link" href="register.php">Register</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="login.php">Login</a>
                             </li>
                         </ul>
                     </div>
