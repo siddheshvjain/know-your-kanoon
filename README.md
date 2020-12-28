@@ -29,5 +29,5 @@ CREATE TABLE users (
 
 ## Acknowledgments
 1) Title of this project was inspired from Amber Rana's podcast called <em>Know Your Kanoon</em>: https://ivmpodcasts.com/know-your-kanoon.
-2) Motivation for this project was part of our Web Applications laboratory (2020-2021) under Prof. Arya S S, PESIT-Bengaluru South Campus
+2) Motivation for this project was part of our Web Applications laboratory (2020-2021) under Prof. Arya S S And Also due to the Problem Faced by People, where there whole life goes in Legal Matters.It was disheartening to see people's life being wasted because of slow and lengthy legal processes.
 3) The project structure and code covention is in accordance to the PSR-1 (PHP Standards Recommendation): https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
